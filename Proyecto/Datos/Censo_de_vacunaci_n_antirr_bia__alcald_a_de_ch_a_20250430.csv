@@ -1,0 +1,684 @@
+Año,Mes,Cuántas personas viven en la vivienda?,Es vivienda o punto fijo?,Provincia,Municipio,Urbano o Rural?,Sector /Vereda,Perros totales,Machos (dogs),Hembras (dogs),Esterilizados (dogs),Sin esterilizar (dogs),Vacunados (dogs),Sin vacunar (dogs),Gatos totales,Machos (cats),Hembras (cats),Esterilizados (cats),Sin esterilizar (cats),Vacunados (cats)
+2024,marzo,1,Punto fijo,sabana_centro,Chia,Rural,Cerca de pedra,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,marzo,1,Punto fijo,sabana_centro,Chia,Urbano,Centro,2,1,1,0,2,2,0,1,1,0,0,1,1
+2024,marzo,1,Punto fijo,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,0,1,1
+2024,marzo,1,Punto fijo,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,1,1,0,2,2
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,0,1,1
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,0,1,1
+2024,marzo,1,Vivienda,sabana_centro,Chia,Rural,La Balsa,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,2,1,1,0,2,2
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,0,1,1
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,2,2,0,0,2,2,0,0,0,0,0,0,0
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,0,1,1
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,1,0,1,0,1,1
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,0,1,1
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,0,1,1
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,0,1,1
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,0,1,1
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,marzo,1,Vivienda,sabana_centro,Chia,Rural,Cerca de pedra,4,0,4,0,4,4,0,0,0,0,0,0,0
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,0,1,1
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,1,1,0,2,2
+2024,marzo,1,Vivienda,sabana_centro,Chia,Rural,Cerca de pedra,2,1,1,0,2,2,0,0,0,0,0,0,0
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,1,1,0,2,2
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,0,1,1
+2024,marzo,1,Vivienda,sabana_centro,Chia,Rural,Tiquiza,4,0,4,0,4,4,0,0,0,0,0,0,0
+2024,marzo,1,Vivienda,sabana_centro,Chia,Rural,Fonqueta,6,3,3,0,6,6,0,2,1,1,0,2,2
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,0,1,1
+2024,marzo,1,Vivienda,sabana_centro,Chia,Rural,Tiquiza,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,1,0,1,0,1,1
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,0,1,1
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,marzo,1,Vivienda,sabana_centro,Chia,Rural,La Balsa,0,0,0,0,0,0,0,2,2,0,0,2,2
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,3,2,1,0,3,3,0,1,1,0,0,1,1
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,0,1,1
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,1,1,0,2,2
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,2,0,2,0,2,2,0,0,0,0,0,0,0
+2024,marzo,1,Vivienda,sabana_centro,Chia,Rural,La Balsa,1,0,1,0,1,1,0,2,1,1,0,2,2
+2024,marzo,1,Vivienda,sabana_centro,Chia,Rural,La Balsa,0,0,0,0,0,0,0,1,1,0,0,1,1
+2024,marzo,1,Vivienda,sabana_centro,Chia,Rural,La Balsa,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,2,0,2,0,2,2,0,0,0,0,0,0,0
+2024,marzo,2,Vivienda,sabana_centro,Chia,Rural,Fonqueta,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,marzo,2,Vivienda,sabana_centro,Chia,Rural,Fonqueta,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,2,1,1,0,2,2,0,0,0,0,0,0,0
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,1,1,0,2,2
+2024,marzo,,Vivienda,sabana_centro,Chia,Rural,fusca,6,5,1,0,6,6,0,0,0,0,0,0,0
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,2,1,1,0,2,2,0,0,0,0,0,0,0
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,1,1,0,2,2
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,0,1,1
+2024,marzo,1,Vivienda,sabana_centro,Chia,Rural,Cerca de pedra,5,3,2,0,5,5,0,1,0,1,0,1,1
+2024,marzo,2,Vivienda,sabana_centro,Chia,Rural,Cerca de pedra,2,1,1,0,2,2,0,0,0,0,0,0,0
+2024,marzo,2,Vivienda,sabana_centro,Chia,Rural,Cerca de pedra,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,marzo,2,Vivienda,sabana_centro,Chia,Rural,Cerca de pedra,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,marzo,2,Vivienda,sabana_centro,Chia,Rural,Cerca de pedra,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,marzo,2,Vivienda,sabana_centro,Chia,Rural,Cerca de pedra,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,marzo,2,Vivienda,sabana_centro,Chia,Rural,Cerca de pedra,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,0,1,1
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,marzo,2,Vivienda,sabana_centro,Chia,Rural,Fonqueta,0,0,0,0,0,0,0,1,0,1,0,1,1
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,0,1,1
+2024,marzo,1,Vivienda,sabana_centro,Chia,Rural,Cerca de pedra,0,0,0,0,0,0,0,1,1,0,0,1,1
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,0,1,1
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,0,1,1
+2024,marzo,1,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,0,1,1
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,1,1,0,2,2
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,0,1,1
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,0,1,1
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,2,2,0,0,2,2,0,0,0,0,0,0,0
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,0,1,1
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,1,1,0,2,2
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,marzo,2,Vivienda,sabana_centro,Chia,Rural,Fonqueta,2,1,1,1,1,2,0,0,0,0,0,0,0
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,0,1,1
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,2,1,1,0,2,2,0,0,0,0,0,0,0
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,0,1,1
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,1,1,1,1,2
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,2,0,0,2,2
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,marzo,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,0,1,1
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,4,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,1,1,0,0,1,1
+2024,abril,4,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,3,3,0,3,0,3
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,1,0,1,1,0,1
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,2,0,2,2,0,2,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,2,1,1,0,2,2,0,0,0,0,0,0,0
+2024,abril,4,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,5,Vivienda,sabana_centro,Chia,Rural,Otro,12,9,3,6,6,12,0,10,3,7,10,0,10
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,4,3,1,2,2,4,0,2,1,1,2,0,2
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Otro,4,2,2,2,2,4,0,5,3,2,5,0,5
+2024,abril,4,Vivienda,sabana_centro,Chia,Rural,Fonqueta,10,4,6,6,4,10,0,1,0,1,1,0,1
+2024,abril,4,Vivienda,sabana_centro,Chia,Urbano,Cerca de pedra,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,4,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,0,2,2,0,2
+2024,abril,5,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Rural,Otro,8,5,3,5,3,8,0,3,1,2,3,0,3
+2024,abril,3,Vivienda,sabana_centro,Chia,Rural,fagua,27,11,16,25,2,27,0,7,4,3,7,0,7
+2024,abril,4,Vivienda,sabana_centro,Chia,Rural,fagua,7,1,6,6,1,7,0,3,1,2,2,1,3
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,1,0,1
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,2,0,2,2,0,2
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,14,7,7,12,2,14,0,1,1,0,1,0,1
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,8,5,3,6,2,8,0,7,2,5,3,4,7
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,12,5,7,9,3,12,0,3,1,2,2,1,3
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Centro,2,2,0,2,0,2,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,9,3,6,6,3,9,0,6,3,3,5,1,6
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,8,5,3,5,3,8,0,5,1,4,5,0,5
+2024,abril,4,Vivienda,sabana_centro,Chia,Urbano,Centro,2,1,1,1,1,2,0,0,0,0,0,0,0
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,7,2,5,2,5,7,0,3,2,1,3,0,3
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,6,3,3,5,1,6,0,5,2,3,5,0,5
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,8,2,6,5,3,8,0,3,3,0,1,2,3
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,7,5,2,4,3,7,0,3,1,2,1,2,3
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Centro,6,2,4,4,2,6,0,4,3,1,2,2,4
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,2,1,1,1,1,2,0,8,8,0,8,0,8
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,6,2,4,4,2,6,0,4,4,0,4,0,4
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,7,4,3,5,2,7,0,3,1,2,2,1,3
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,15,4,11,14,1,15,0,5,2,3,3,2,5
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Centro,14,7,7,9,5,14,0,3,1,2,2,1,3
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,12,4,8,6,6,12,0,8,4,4,8,0,8
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,12,7,5,6,6,12,0,9,6,3,2,7,9
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,14,9,5,8,6,14,0,1,0,1,1,0,1
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,10,2,8,6,4,10,0,5,2,3,1,4,5
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,10,6,4,4,6,10,0,6,3,3,4,2,6
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,16,6,10,9,7,16,0,3,1,2,3,0,3
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,5,1,4,3,2,5,0,8,4,4,5,3,8
+2024,abril,4,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,2,0,2,0,2
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,4,3,1,2,2,4,0,2,1,1,2,0,2
+2024,abril,7,Vivienda,sabana_centro,Chia,Rural,La Balsa,3,2,1,3,0,3,0,1,1,0,1,0,1
+2024,abril,4,Vivienda,sabana_centro,Chia,Rural,La Balsa,0,0,0,0,0,0,0,2,1,1,2,0,2
+2024,abril,2,Vivienda,sabana_centro,Chia,Rural,La Balsa,1,0,1,1,0,1,0,2,1,1,2,0,2
+2024,abril,4,Vivienda,sabana_centro,Chia,Rural,Cerca de pedra,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,4,Vivienda,sabana_centro,Chia,Rural,Cerca de pedra,5,2,3,4,1,5,0,3,3,0,1,2,3
+2024,abril,3,Vivienda,sabana_centro,Chia,Rural,Cerca de pedra,2,1,1,2,0,2,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Rural,Cerca de pedra,1,1,0,1,0,1,0,1,1,0,0,1,1
+2024,abril,2,Vivienda,sabana_centro,Chia,Rural,Cerca de pedra,0,0,0,0,0,0,0,3,2,1,3,0,3
+2024,abril,2,Vivienda,sabana_centro,Chia,Rural,Cerca de pedra,0,0,0,0,0,0,0,2,2,0,2,0,2
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,1,0,1,1,0,1
+2024,abril,5,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,6,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,4,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,5,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,4,Vivienda,sabana_centro,Chia,Rural,La Balsa,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Rural,La Balsa,5,3,2,1,4,5,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Rural,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Rural,tiqueza,7,3,4,5,2,7,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Rural,fagua,8,4,4,4,4,8,0,4,1,3,3,1,4
+2024,abril,5,Vivienda,sabana_centro,Chia,Rural,fagua,21,12,9,9,12,21,0,7,3,4,3,4,7
+2024,abril,4,Vivienda,sabana_centro,Chia,Rural,Otro,1,0,1,1,0,1,0,9,6,3,8,1,9
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,1,0,1,1,0,1
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,fagua,0,0,0,0,0,0,0,1,1,0,1,0,1
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Otro,20,6,14,9,11,20,0,1,0,1,1,0,1
+2024,abril,2,Vivienda,sabana_centro,Chia,Rural,fagua,26,9,17,19,7,26,0,4,1,3,4,0,4
+2024,abril,6,Vivienda,sabana_centro,Chia,Rural,fagua,11,3,8,10,1,11,0,5,2,3,4,1,5
+2024,abril,3,Punto,sabana_centro,Chia,Rural,Fonqueta,10,3,7,3,7,10,0,5,2,3,2,3,5
+2024,abril,2,Punto,sabana_centro,Chia,Rural,Fonqueta,9,5,4,5,4,9,0,6,2,4,4,2,6
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,fagua,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,4,Vivienda,sabana_centro,Chia,Urbano,Centro,2,1,1,1,1,2,0,1,0,1,1,0,1
+2024,abril,2,Punto,sabana_centro,Chia,Rural,Fonqueta,7,6,1,3,4,7,0,8,1,7,6,2,8
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,3,1,2,3,0,3
+2024,abril,2,Punto,sabana_centro,Chia,Rural,Fonqueta,7,2,5,5,2,7,0,8,4,4,7,1,8
+2024,abril,3,Punto,sabana_centro,Chia,Rural,Fonqueta,12,4,8,10,2,12,0,3,1,2,3,0,3
+2024,abril,4,Vivienda,sabana_centro,Chia,Rural,Samaria,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Samaria,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,2,1,1,2,0,2,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Rural,Fonqueta,8,4,4,7,1,8,0,7,4,3,6,1,7
+2024,abril,2,Punto,sabana_centro,Chia,Rural,Fonqueta,10,4,6,5,5,10,0,5,2,3,3,2,5
+2024,abril,3,Vivienda,sabana_centro,Chia,Rural,La Balsa,2,1,1,1,1,2,0,1,1,0,1,0,1
+2024,abril,6,Vivienda,sabana_centro,Chia,Rural,La Balsa,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,5,Vivienda,sabana_centro,Chia,Rural,La Balsa,2,2,0,0,2,2,0,2,0,2,1,1,2
+2024,abril,4,Vivienda,sabana_centro,Chia,Rural,La Balsa,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,4,Vivienda,sabana_centro,Chia,Rural,La Balsa,5,3,2,1,4,5,0,4,2,2,1,3,4
+2024,abril,2,Punto,sabana_centro,Chia,Rural,Fonqueta,10,6,4,9,1,10,0,13,8,5,13,0,13
+2024,abril,2,Vivienda,sabana_centro,Chia,Rural,La Balsa,2,1,1,2,0,2,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Rural,Fonqueta,3,3,0,2,1,3,0,0,0,0,0,0,0
+2024,abril,4,Vivienda,sabana_centro,Chia,Rural,La Balsa,4,2,2,2,2,4,0,0,0,0,0,0,0
+2024,abril,1,Vivienda,sabana_centro,Chia,Rural,fagua,12,4,8,9,3,12,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Rural,fagua,32,19,13,23,9,32,0,2,1,1,2,0,2
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,1,0,1
+2024,abril,3,Vivienda,sabana_centro,Chia,Rural,Fonqueta,2,2,0,0,2,2,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Otro,16,11,5,3,13,16,0,3,2,1,1,2,3
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Otro,14,9,5,3,11,14,0,5,1,4,4,1,5
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Otro,15,7,8,6,9,15,0,5,1,4,4,1,5
+2024,abril,4,Vivienda,sabana_centro,Chia,Urbano,Otro,12,3,9,9,3,12,0,9,5,4,5,4,9
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Otro,5,3,2,1,4,5,0,4,3,1,2,2,4
+2024,abril,4,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,4,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,0,1,1
+2024,abril,4,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,1,1,0,1,0,1
+2024,abril,5,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,4,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,0,1,1
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,abril,4,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,5,Vivienda,sabana_centro,Chia,Urbano,Centro,2,1,1,1,1,2,0,1,1,0,1,0,1
+2024,abril,4,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,5,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Samaria,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,4,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,4,Vivienda,sabana_centro,Chia,Urbano,Centro,2,0,2,1,1,2,0,1,1,0,0,1,1
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,5,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,5,Vivienda,sabana_centro,Chia,Urbano,Samaria,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Samaria,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Samaria,1,1,0,1,0,1,0,1,1,0,1,0,1
+2024,abril,4,Vivienda,sabana_centro,Chia,Urbano,Samaria,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Samaria,1,0,1,1,0,1,0,1,0,1,1,0,1
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,1,0,1,0,1,1
+2024,abril,4,Vivienda,sabana_centro,Chia,Urbano,Samaria,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,4,Vivienda,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,2,1,1,2,0,2
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,2,2,0,2,0,2
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,4,Punto,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,4,1,3,4,0,4,0,0,0,0,0,0,0
+2024,abril,4,Punto,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,4,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,5,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,1,1,2,0,2
+2024,abril,4,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,0,1,1
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,1,0,1
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,0,1,1
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,1,0,1,1,0,1
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,3,2,1,1,2,3,0,0,0,0,0,0,0
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,4,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,0,1,1
+2024,abril,4,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,3,0,3,3,0,3
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,4,Punto,sabana_centro,Chia,Urbano,Centro,2,1,1,2,0,2,0,0,0,0,0,0,0
+2024,abril,4,Punto,sabana_centro,Chia,Urbano,Centro,2,1,1,2,0,2,0,0,0,0,0,0,0
+2024,abril,4,Punto,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,2,1,1,2,0,2,0,0,0,0,0,0,0
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,2,1,1,2,0,2,0,0,0,0,0,0,0
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,4,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,2,0,2,0,2
+2024,abril,4,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,0,2,0,2,2
+2024,abril,4,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,1,0,1
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,1,0,1
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,1,1,0,1,0,1
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,1,1,0,1,0,1
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,1,0,1
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,1,1,0,1,0,1
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,3,2,1,3,0,3,0,2,2,0,2,0,2
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,1,0,1
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,1,0,1
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,1,0,1
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,1,0,1
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,1,0,1
+2024,abril,5,Punto,sabana_centro,Chia,Urbano,Centro,4,1,3,4,0,4,0,0,0,0,0,0,0
+2024,abril,5,Punto,sabana_centro,Chia,Urbano,Centro,2,1,1,1,1,2,0,0,0,0,0,0,0
+2024,abril,4,Punto,sabana_centro,Chia,Urbano,Centro,2,1,1,1,1,2,0,0,0,0,0,0,0
+2024,abril,4,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,abril,4,Punto,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,1,0,1
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,0,2,2,0,2
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,4,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,abril,4,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,4,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,4,Punto,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,1,0,1
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,3,2,1,1,2,3,0,0,0,0,0,0,0
+2024,abril,4,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,4,Punto,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,4,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Rural,Cerca de pedra,1,1,0,0,1,1,0,1,1,0,0,1,1
+2024,abril,3,Vivienda,sabana_centro,Chia,Rural,Cerca de pedra,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,6,Vivienda,sabana_centro,Chia,Rural,Cerca de pedra,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Otro,6,2,4,5,1,6,0,9,5,4,6,3,9
+2024,abril,5,Vivienda,sabana_centro,Chia,Urbano,Otro,12,5,7,5,7,12,0,8,5,3,5,3,8
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Otro,16,10,6,7,9,16,0,5,2,3,1,4,5
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Otro,15,10,5,10,5,15,0,7,3,4,7,0,7
+2024,abril,4,Vivienda,sabana_centro,Chia,Urbano,Otro,7,6,1,3,4,7,0,6,1,5,6,0,6
+2024,abril,4,Punto,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,4,Vivienda,sabana_centro,Chia,Urbano,Centro,3,1,2,3,0,3,0,1,0,1,1,0,1
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,2,0,2,0,2
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,La Balsa,1,1,0,1,0,1,0,1,1,0,1,0,1
+2024,abril,6,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,5,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Rural,Fonqueta,18,6,12,9,9,18,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Rural,Fonqueta,2,0,2,2,0,2,0,0,0,0,0,0,0
+2024,abril,4,Vivienda,sabana_centro,Chia,Rural,Fonqueta,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,1,1,2,0,2
+2024,abril,4,Vivienda,sabana_centro,Chia,Urbano,Centro,2,0,2,2,0,2,0,0,0,0,0,0,0
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,1,1,0,1,0,1
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,1,1,0,1,0,1
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,1,0,1,1,0,1,0,1,0,1,1,0,1
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,1,1,0,1,0,1
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,2,2,0,0,2,2,0,0,0,0,0,0,0
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,1,0,1,0,1,1
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,1,0,1,0,1,1
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,2,0,2,2,0,2
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Samaria,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,1,1,0,1,0,1,0,1,0,1,1,0,1
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,1,0,1,1,0,1,0,1,0,1,0,1,1
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,2,1,1,1,1,2,0,1,0,1,0,1,1
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,3,1,2,1,2,3,0,0,0,0,0,0,0
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,2,1,1,2,0,2
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,1,0,1,0,1,1
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,2,0,2,2,0,2,0,0,0,0,0,0,0
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,1,Vivienda,sabana_centro,Chia,Urbano,Samaria,1,1,0,1,0,1,0,1,1,0,1,0,1
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,1,1,0,0,1,1
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,1,0,1,0,1,1,0,1,1,0,1,0,1
+2024,abril,0,Punto,sabana_centro,Chia,Rural,Samaria,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,1,1,0,1,0,1
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,1,1,0,0,1,1
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,1,1,0,1,0,1
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,2,1,1,1,1,2,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,4,0,4,4,0,4
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,1,0,1,0,1,1,0,1,0,1,0,1,1
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,3,2,1,2,1,3
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,1,1,0,1,0,1
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,1,1,0,0,1,1,0,1,1,0,1,0,1
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,2,0,2,1,1,2,0,2,2,0,2,0,2
+2024,abril,3,Vivienda,sabana_centro,Chia,Rural,fagua,10,6,4,9,1,10,0,3,2,1,2,1,3
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,1,1,0,1,0,1
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,2,1,1,2,0,2
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,1,1,0,1,0,1
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,16_Centro,0,0,0,0,0,0,0,2,1,1,2,0,2
+2024,abril,2,Vivienda,sabana_centro,Chia,Rural,Otro,17,5,12,9,8,17,0,10,2,8,7,3,10
+2024,abril,4,Punto,sabana_centro,Chia,Urbano,Otro,20,7,13,9,11,20,0,20,8,12,11,9,20
+2024,abril,4,Punto,sabana_centro,Chia,Urbano,Otro,27,10,17,14,13,27,0,20,8,12,13,7,20
+2024,abril,4,Punto,sabana_centro,Chia,Urbano,Otro,11,6,5,8,3,11,0,7,3,4,4,3,7
+2024,abril,2,Vivienda,sabana_centro,Chia,Rural,fagua,23,10,13,19,4,23,0,3,2,1,3,0,3
+2024,abril,3,Vivienda,sabana_centro,Chia,Rural,fagua,20,12,8,12,8,20,0,2,1,1,2,0,2
+2024,abril,3,Punto,sabana_centro,Chia,Rural,fagua,17,10,7,9,8,17,0,3,2,1,3,0,3
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,1,0,1,0,1,1
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,1,1,0,0,1,1
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,1,0,1,0,1,1,0,1,0,1,1,0,1
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,1,1,0,0,1,1
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,1,1,0,1,0,1
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,3,0,3,1,2,3,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,1,1,0,1,0,1
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,2,0,2,0,2
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,5,3,2,2,3,5,0,1,0,1,1,0,1
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,2,1,1,1,1,2,0,0,0,0,0,0,0
+2024,abril,1,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,1,Vivienda,sabana_centro,Chia,Urbano,Centro,2,2,0,0,2,2,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,2,2,0,0,2,2,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,1,0,1,1,0,1
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,2,0,0,2,2
+2024,abril,1,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,1,1,2,0,2
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,0,2,2,0,2
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,3,0,3,3,0,3,0,1,0,1,1,0,1
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,2,0,2,0,2
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,3,1,2,3,0,3,0,1,1,0,1,0,1
+2024,abril,1,Vivienda,sabana_centro,Chia,Urbano,Centro,9,3,6,6,3,9,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,2,1,1,2,0,2,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,5,4,1,4,1,5
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,1,0,1
+2024,abril,1,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,2,2,0,0,2,2,0,1,1,0,1,0,1
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,fagua,7,2,5,7,0,7,0,5,2,3,4,1,5
+2024,abril,4,Vivienda,sabana_centro,Chia,Urbano,fagua,16,11,5,5,11,16,0,4,4,0,1,3,4
+2024,abril,4,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,4,Vivienda,sabana_centro,Chia,Urbano,fagua,9,7,2,4,5,9,0,3,0,3,2,1,3
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,2,0,2,1,1,2
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,2,1,1,1,1,2,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,1,Vivienda,sabana_centro,Chia,Urbano,fagua,14,7,7,5,9,14,0,2,0,2,2,0,2
+2024,abril,1,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,4,1,3,2,2,4
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,1,0,1
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,1,Vivienda,sabana_centro,Chia,Urbano,fagua,15,10,5,12,3,15,0,8,2,6,7,1,8
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,14,10,4,7,7,14,0,9,6,3,6,3,9
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,2,0,2,0,2
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,1,0,1
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,1,1,1,1,2
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,fagua,18,12,6,9,9,18,0,3,2,1,3,0,3
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,2,1,1,2,0,2,0,1,0,1,1,0,1
+2024,abril,1,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,1,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,0,1,1
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,1,0,1,1,0,1
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,3,2,1,2,1,3,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,2,0,2,2,0,2
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,2,2,0,0,2,2,0,1,1,0,0,1,1
+2024,abril,1,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,1,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,2,0,2,0,2
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,1,1,2,0,2
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,2,0,2,2,0,2,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,1,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,0,2,2,0,2
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,4,3,1,4,0,4
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,1,0,1,1,0,1
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,5,2,3,5,0,5,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,3,2,1,0,3,3,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,2,2,0,0,2,2,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,1,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,2,Punto,sabana_centro,Chia,Rural,La Balsa,4,1,3,2,2,4,0,0,0,0,0,0,0
+2024,abril,4,Punto,sabana_centro,Chia,Rural,La Balsa,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,4,Punto,sabana_centro,Chia,Rural,La Balsa,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,4,Punto,sabana_centro,Chia,Rural,La Balsa,2,1,1,0,2,2,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Rural,La Balsa,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,3,Punto,sabana_centro,Chia,Rural,La Balsa,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,3,Punto,sabana_centro,Chia,Rural,La Balsa,2,2,0,0,2,2,0,0,0,0,0,0,0
+2024,abril,1,Punto,sabana_centro,Chia,Rural,La Balsa,0,0,0,0,0,0,0,2,0,2,2,0,2
+2024,abril,1,Punto,sabana_centro,Chia,Rural,La Balsa,0,0,0,0,0,0,0,1,0,1,0,1,1
+2024,abril,2,Punto,sabana_centro,Chia,Rural,La Balsa,0,0,0,0,0,0,0,1,1,0,0,1,1
+2024,abril,2,Punto,sabana_centro,Chia,Rural,La Balsa,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Rural,La Balsa,0,0,0,0,0,0,0,3,1,2,3,0,3
+2024,abril,2,Punto,sabana_centro,Chia,Rural,La Balsa,0,0,0,0,0,0,0,1,1,0,1,0,1
+2024,abril,1,Punto,sabana_centro,Chia,Rural,La Balsa,0,0,0,0,0,0,0,2,0,2,1,1,2
+2024,abril,2,Punto,sabana_centro,Chia,Rural,La Balsa,2,0,2,1,1,2,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Rural,La Balsa,2,1,1,1,1,2,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Rural,La Balsa,2,0,2,1,1,2,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Rural,La Balsa,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,2,Punto,sabana_centro,Chia,Rural,La Balsa,0,0,0,0,0,0,0,1,0,1,0,1,1
+2024,abril,2,Punto,sabana_centro,Chia,Rural,La Balsa,2,1,1,0,2,2,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Rural,La Balsa,2,0,2,2,0,2,0,1,1,0,1,0,1
+2024,abril,1,Punto,sabana_centro,Chia,Rural,La Balsa,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,1,Punto,sabana_centro,Chia,Rural,La Balsa,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,3,Vivienda,sabana_centro,Chia,Rural,La Balsa,4,3,1,2,2,4,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Rural,La Balsa,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Otro,4,2,2,0,4,4,0,2,1,1,0,2,2
+2024,abril,2,Vivienda,sabana_centro,Chia,Rural,La Balsa,6,2,4,4,2,6,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Rural,Fonqueta,5,4,1,1,4,5,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Rural,fagua,19,11,8,11,8,19,0,5,2,3,4,1,5
+2024,abril,1,Vivienda,sabana_centro,Chia,Rural,fagua,14,7,7,7,7,14,0,2,1,1,0,2,2
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,1,0,1
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,abril,1,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,0,2,2,0,2
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,1,0,1
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,1,0,1,1,0,1
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,4,2,2,4,0,4
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,3,2,1,1,2,3,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,0,2,2,0,2
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,2,1,1,2,0,2,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,2,0,2,0,2
+2024,abril,1,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,0,2,1,1,2
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,2,2,0,0,2,2,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,1,1,0,2,2
+2024,abril,2,Vivienda,sabana_centro,Chia,Rural,La Balsa,3,2,1,1,2,3,0,2,1,1,2,0,2
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Fonqueta,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,2,Vivienda,sabana_centro,Chia,Rural,Otro,22,14,8,11,11,22,0,6,3,3,2,4,6
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,0,1,1
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,1,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,2,2,0,2,0,2
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Rural,Fonqueta,15,10,5,8,7,15,0,3,2,1,2,1,3
+2024,abril,4,Vivienda,sabana_centro,Chia,Rural,La Balsa,5,4,1,5,0,0,5,0,0,0,0,0,0
+2024,abril,4,Punto,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,4,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,4,1,3,4,0,4
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,0,2,2,0,2
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,1,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,1,1,0,0,1,1
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,17,5,12,9,8,17,0,13,4,9,11,2,13
+2024,abril,2,Vivienda,sabana_centro,Chia,Rural,fagua,14,8,6,8,6,14,0,3,1,2,3,0,3
+2024,abril,2,Vivienda,sabana_centro,Chia,Rural,fagua,13,8,5,5,8,13,0,8,0,8,7,1,8
+2024,abril,2,Vivienda,sabana_centro,Chia,Rural,fagua,16,8,8,11,5,16,0,2,0,2,2,0,2
+2024,abril,2,Vivienda,sabana_centro,Chia,Rural,fagua,18,8,10,8,10,18,0,3,2,1,2,1,3
+2024,abril,1,Vivienda,sabana_centro,Chia,Rural,fagua,19,8,11,13,6,19,0,6,3,3,3,3,6
+2024,abril,1,Vivienda,sabana_centro,Chia,Rural,fagua,10,10,0,4,6,10,0,9,4,5,6,3,9
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,fagua,18,12,6,12,6,18,0,1,1,0,1,0,1
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,fagua,10,5,5,6,4,10,0,5,2,3,2,3,5
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,0,1,0,0,0,0,0,0
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,3,Punto,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,0,1,1
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,fagua,17,6,11,13,4,17,0,8,5,3,5,3,8
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,fagua,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,fagua,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,fagua,5,1,4,4,1,5,0,3,2,1,1,2,3
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Rural,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,11,5,6,6,5,11,0,4,4,0,4,0,4
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Samaria,12,3,9,8,4,12,0,4,4,0,4,0,4
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,10,5,5,5,5,10,0,6,5,1,6,0,6
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,8,6,2,5,3,8,0,9,5,4,8,1,9
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Samaria,10,2,8,7,3,10,0,7,3,4,5,2,7
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,10,5,5,4,6,10,0,5,2,3,3,2,5
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,4,1,3,4,0,4,0,11,3,8,10,1,11
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,11,7,4,9,2,11,0,3,0,3,3,0,3
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,3,3,0,1,2,3,0,3,0,3,2,1,3
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,2,0,2,0,2
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Samaria,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,1,1,1,1,2
+2024,abril,1,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,0,2,2,0,2
+2024,abril,1,Vivienda,sabana_centro,Chia,Urbano,Centro,2,1,1,2,0,2,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,2,1,1,0,2,2,0,1,0,1,1,0,1
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,5,2,3,2,3,5,0,3,2,1,1,2,3
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,3,1,2,3,0,3,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,3,0,3,0,3,3,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,2,0,2,1,1,2,0,1,0,1,1,0,1
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,3,Vivienda,sabana_centro,Chia,Urbano,Centro,2,2,0,2,0,2,0,1,1,0,1,0,1
+2024,abril,1,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,1,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,3,0,3,3,0,3
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,2,1,1,2,0,2,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,0,1,1
+2024,abril,1,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,1,0,1,1,0,1
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,1,1,1,1,2
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,1,1,0,0,1,1
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,0,1,1,0,1
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,1,1,0,1,0,1
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,2,2,0,2,0,2,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,2,1,1,0,2,2,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,3,1,2,3,0,3
+2024,abril,2,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,abril,1,Punto,sabana_centro,Chia,Urbano,Centro,1,0,1,0,1,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,2,0,2,2,0,2
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,3,1,2,1,2,3,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,2,0,2,0,2,2,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,3,1,2,3,0,3
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,4,3,1,3,1,4,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,1,1,0,1,0,1
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,1,0,1,0,0,0,0,0,0,0
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,0,0,0,0,0,0,0,3,0,3,3,0,3
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,1,1,0,1,0,1
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,0,1,1,0,1,0,2,0,2,2,0,2
+2024,abril,1,Vivienda,sabana_centro,Chia,Urbano,Centro,6,3,3,3,3,6,0,1,1,0,1,0,1
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,3,1,2,2,1,3,0,2,1,1,2,0,2
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,3,1,2,3,0,3
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,6,1,5,3,3,6,0,1,0,1,1,0,1
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,2,1,1,1,1,2,0,1,1,0,1,0,1
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
+2024,abril,3,Vivienda,sabana_centro,Chia,Rural,fagua,9,5,4,8,1,9,0,2,1,1,2,0,2
+2024,abril,2,Vivienda,sabana_centro,Chia,Urbano,Centro,1,1,0,0,1,1,0,0,0,0,0,0,0
