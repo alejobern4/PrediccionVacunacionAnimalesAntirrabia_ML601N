@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ingeniería de Datos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f0f4f8;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        h1,
+        h2 {
+            color: #0c2461;
+        }
+
+        .section {
+            background: #ffffff;
+            border-radius: 10px;
+            padding: 25px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Fase de Ingeniería de Datos</h1>
+
+    <div class="section">
+        <h2>Selección</h2>
+        <p>
+            Se identificó como fuente principal el dataset del <a
+                href="https://www.datos.gov.co/Salud-y-Protecci-n-Social/Censo-de-vacunaci-n-antirr-bia-alcald-a-de-ch-a/y42m-qq7z/about_data">censo
+                de vacunación antirrábica de animales callejeros en Chía</a>. Se seleccionaron columnas clave como año,
+            mes, zona, tipo de jornada y totales vacunados.
+        </p>
+    </div>
+
+    <div class="section">
+        <h2>Limpieza</h2>
+        <p>
+            Se eliminaron registros con valores faltantes críticos, y se imputaron NaN menores mediante el uso de
+            valores promedio o por eliminación según el caso.
+            También se estandarizaron nombres de columnas y se eliminaron caracteres especiales.
+        </p>
+    </div>
+
+    <div class="section">
+        <h2>Transformación</h2>
+        <p>
+            Se crearon nuevas características como el total de animales vacunados por jornada (suma de perros y gatos).
+            Se codificaron variables categóricas como "zona" y "tipo de jornada" mediante codificación numérica (label
+            encoding).
+            También se normalizaron los datos numéricos para estabilizar la varianza.
+        </p>
+    </div>
+
+    <div class="section">
+        <h2>Documentación</h2>
+        <p>
+            Todas las transformaciones se registraron en el archivo `regresionLineal.py`, incluyendo pasos como la
+            imputación, codificación, y generación de variables nuevas.
+            Esto garantiza que el proceso sea totalmente reproducible y auditable en futuras versiones del modelo.
+        </p>
+    </div>
+
+    <div class="section">
+        <p><strong>Referencia:</strong> ML-Ops.org (2021). *Machine Learning Engineering Best Practices*. Recuperado de
+            https://ml-ops.org</p>
+    </div>
+
+</body>
+
+</html>

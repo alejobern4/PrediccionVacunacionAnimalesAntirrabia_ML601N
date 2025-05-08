@@ -9,6 +9,14 @@ app = Flask(__name__)
 def home():
     return render_template("index.html")
 
+@app.route("/comprension_datos")
+def comprension():
+    return render_template("comprension_datos.html")
+
+@app.route("/ingenieria_datos")
+def ingenieriaDatos():
+    return render_template("ingenieria_datos.html")
+
 @app.route('/formulario')
 def formulario():
     return render_template('index.html')
