@@ -1,26 +1,18 @@
 <!DOCTYPE html>
-<html lang="es">
-
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Predicción de vacunación</title>
+    <title>Inicio</title>
 </head>
-
 <body>
-    <h2>Formulario de Predicción de Vacunación</h2>
-    <form method="POST" action="/predecir">
-        Año: <input type="number" name="año" required><br><br>
-        Mes (1-12): <input type="number" name="mes" min="1" max="12" required><br><br>
-        ¿Urbano o Rural? (1 = Urbano, 0 = Rural): <input type="number" name="urbano" min="0" max="1" required><br><br>
-        Tipo de punto (1 = Punto fijo, 0 = Vivienda): <input type="number" name="tipo_punto" min="0" max="1" required><br><br>
-
-        <input type="submit" value="Predecir">
-    </form>
-
-    {% if resultado %}
-        <h3>{{ resultado }}</h3>
-    {% endif %}
+    <ul>
+        <li><a href="{{ url_for('comprension') }}">comprension</a></li>
+        <li><a href="{{ url_for('ingenieriaDatos') }}">Ingenieria Datos</a></li>
+        <li><a href="{{ url_for('ingenieriaModelo') }}">Ingenieria Modelo</a></li>
+        <li><a href="{{ url_for('implementacion') }}">implementacion</a></li>
+        <li><a href="{{ url_for('formulario') }}">formulario</a></li>
+        <li><a href="{{ url_for('historial') }}">historial</a></li>
+    </ul>
 </body>
-
 </html>

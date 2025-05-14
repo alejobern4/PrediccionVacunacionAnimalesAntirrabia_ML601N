@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ingeniería del Modelo</title>
+</head>
+<body>
+    <header>
+        <h1>Fase de Ingeniería del Modelo</h1>
+    </header>
+
+    <div class="section">
+        <h2>Selección de Algoritmos</h2>
+        <p>
+            Se optó por un modelo de regresión lineal al tratarse de un problema de predicción continua sobre la cantidad de animales vacunados, 
+            utilizando variables como año, mes, zona y tipo de jornada (Vivienda o punto fijo de vacunacion). Esta técnica es interpretable, eficiente y adecuada para el tamaño del dataset.
+        </p>
+    </div>
+
+    <div class="section">
+        <h2>Entrenamiento</h2>
+        <p>
+            El modelo fue entrenado usando el conjunto de datos preparado, dividiendo en subconjuntos de entrenamiento y prueba con una proporción 80/20. 
+            Se utilizó la librería scikit-learn para implementar el algoritmo.
+        </p>
+    </div>
+
+    <div class="section">
+        <h2>Ajuste de Hiperparámetros</h2>
+        <p>
+            Aunque el modelo de regresión lineal tiene pocos hiperparámetros, se validaron configuraciones como el ajuste del intercepto y la normalización.
+        </p>
+    </div>
+
+    <div class="section">
+        <h2>Validación</h2>
+        <p>
+            Para asegurarnos de que el modelo realmente funciona bien, lo probamos con datos de test, que son diferentes a los que
+            usamos para entrenarlo. En el caso de los modelos de clasificación, usamos una herramienta llamada matriz de confusión,
+            que nos muestra cuántas veces el modelo acertó y cuántas se equivocó. A partir de ahí, calculamos métricas como la
+            precisión y el recall, que nos ayudan a entender qué tan bien está funcionando y si necesita mejoras.
+        </p>
+    </div>
+
+    <div class="section">
+        <p><strong>Referencia:</strong> Schmid, U., Wurst, M., & Wirth, R. (2020). Machine Learning in Practice. Springer.</p>
+    </div>
+
+</body>
+</html>
