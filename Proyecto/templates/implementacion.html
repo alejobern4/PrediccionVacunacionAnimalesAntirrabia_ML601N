@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Evaluación del Modelo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='evaluacion.css') }}">
+</head>
+
+<body class="bg-light">
+
+    <div class="container py-5">
+        <h1 class="mb-5 text-center">Evaluación del Modelo</h1>
+
+        <div class="card mb-4 shadow-sm">
+            <div class="card-body">
+                <h3 class="card-title">Métricas de Desempeño</h3>
+                <p class="card-text">
+                    Se seleccionan y aplican métricas adecuadas según el tipo de problema. En modelos de regresión se
+                    usan métricas como MSE o R².
+                </p>
+            </div>
+        </div>
+
+        <div class="card mb-4 shadow-sm">
+            <div class="card-body">
+                <h3 class="card-title">Validación</h3>
+                <p class="card-text">
+                    Se usa validación cruzada para comprobar qué tan bien se desempeña el modelo con distintos datos. En
+                    modelos de
+                    regresión, se aplican métricas como el MSE para ver el error promedio de las predicciones, y R² para
+                    saber qué tanto
+                    explican los datos al resultado.
+                </p>
+            </div>
+        </div>
+
+        <div class="card mb-5 shadow-sm">
+            <div class="card-body">
+                <h3 class="card-title">Análisis de Riesgos</h3>
+                <p class="card-text">
+                    Se examinan posibles riesgos como el sobreajuste (modelo demasiado ajustado al entrenamiento),
+                    subajuste (modelo poco complejo), o sesgos en los datos, que podrían afectar la utilidad real del
+                    modelo.
+                </p>
+            </div>
+        </div>
+
+        <div class="text-center mb-4" id="evaluar-metricas">
+            <p>Haz clic en el botón para ver u ocultar las métricas de evaluación del modelo.</p>
+            <button class="btn btn-primary" id="toggleButton">Ver métricas de evaluación</button>
+
+            <div id="metricas" class="mt-4" style="display: none;">
+                <h4>Métricas</h4>
+                <p><strong>MSE:</strong> {{ mse }}</p>
+                <p><strong>R²:</strong> {{ r2 }}</p>
+            </div>
+        </div>
+
+        <div class="alert alert-secondary text-center mt-5" role="alert">
+            <em>Schmid et al. (2020) enfatizan que el monitoreo y mantenimiento constituye una fase continua orientada a
+                asegurar la calidad y robustez del sistema a
+                lo largo del tiempo. Esta etapa es crucial para garantizar que el modelo siga proporcionando valor a
+                medida que evolucionan los datos y el contexto empresarial.</em>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="{{ url_for('static', filename='js/evaluacion.js') }}"></script>
+</body>
+
+</html>

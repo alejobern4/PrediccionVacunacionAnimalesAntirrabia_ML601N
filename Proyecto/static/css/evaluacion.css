@@ -1,0 +1,42 @@
+body {
+  background-color: #f9f9f9;
+  font-family: Arial, sans-serif;
+  padding: 50px;
+  text-align: center;
+}
+
+.container {
+  background-color: white;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  display: inline-block;
+}
+
+button {
+  background-color: #3182ce;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+button:hover {
+  background-color: #2b6cb0;
+}
+
+.metricas {
+  margin-top: 30px;
+}
+
+.metricas h2 {
+  color: #2d3748;
+}
+
+.metricas p {
+  font-size: 18px;
+  color: #4a5568;
+}
