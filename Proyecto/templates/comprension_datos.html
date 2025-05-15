@@ -5,85 +5,110 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Entendimiento del Negocio y los Datos</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{ url_for('static', filename='css/estilo.css') }}" rel="stylesheet">
+
 </head>
 
-<body>
+<body class="bg-light text-dark">
 
-    <h1>Entendimiento del Negocio y los Datos</h1>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-success">
+        <div class="container">
+            <a class="nav-link custom-nav" href="{{ url_for('home') }}">Vacunación Animal</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+        
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link custom-nav" href="{{ url_for('comprension') }}">Comprensión</a></li>
+                    <li class="nav-item"> <a class="nav-link custom-nav" href="{{ url_for('ingenieriaDatos') }}">Ingeniería de Datos</a></li>
+                    <li class="nav-item"><a class="nav-link custom-nav" href="{{ url_for('ingenieriaModelo') }}">Ingeniería del Modelo</a></li>
+                    <li class="nav-item"><a class="nav-link custom-nav" href="{{ url_for('implementacion') }}">Implementación</a></li>
+                    <li class="nav-item"><a class="nav-link custom-nav" href="{{ url_for('formulario') }}">Formulario</a></li>
+                    <li class="nav-item"><a class="nav-link custom-nav" href="{{ url_for('historial') }}">Historial</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
 
-    <div class="section">
-        <h2>Objetivos de Negocio</h2>
-        <p>
-            Traducir la necesidad de las autoridades de salud pública de Chía en metas concretas para el proyecto de
-            machine
-            learning:
-            Predecir cuántos animales callejeros deberán ser vacunados por zona, para optimizar recursos y prevenir
-            brotes de rabia.</p>
-    </div>
+    <div class="container">
+        <h1>Entendimiento del Negocio y los Datos</h1>
 
-    <div class="section">
-        <h2>Preguntas Clave</h2>
-        <ul>
-            <li>¿Qué zonas tendrán mayor necesidad de vacunación en futuras jornadas?</li>
-            <li>¿Cuántos animales callejeros deberíamos planear vacunar por zona?</li>
-            <li>¿Qué variables (tipo de animal, zona, fechas) influyen más en esa demanda?</li>
-        </ul>
-    </div>
+        <div class="bg-white p-4 rounded shadow-sm mb-4">
+            <h2>Objetivos de Negocio</h2>
+            <p>
+                Traducir la necesidad de las autoridades de salud pública de Chía en metas concretas para el proyecto de
+                machine learning: Predecir cuántos animales callejeros deberán ser vacunados por zona, para optimizar
+                recursos y prevenir brotes de rabia.
+            </p>
+        </div>
 
-    <div class="section">
-        <h2>Evaluación de Datos</h2>
-        <p>
-            Se evaluará la calidad del censo actual de vacunación:
-        <ul>
-            <li>Cobertura geográfica (barrios o veredas)</li>
-            <li>Variables disponibles: especie, sexo, edad estimada, fecha, cantidad de vacunados</li>
-            <li>Posibles vacíos de datos, inconsistencias o duplicados</li>
-            <li>Se analizará si los datos tienen suficiente historial para detectar patrones por zona y por tiempo</li>
-        </ul>
-        </p>
-    </div>
+        <div class="bg-white p-4 rounded shadow-sm mb-4">
+            <h2 class="h4 text-primary">Preguntas Clave</h2>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">¿Qué zonas tendrán mayor necesidad de vacunación en futuras jornadas?</li>
+                <li class="list-group-item">¿Cuántos animales callejeros deberíamos planear vacunar por zona?</li>
+                <li class="list-group-item">¿Qué variables (tipo de animal, zona, fechas) influyen más en esa demanda?</li>
+            </ul>
+        </div>
 
-    <div>
-        <h2>Análisis de Viabilidad</h2>
-        <h3>Técnicamente viable:</h3>
-        <p>Se cuenta con datos en formato estructurado, suficientes para análisisexploratorio y modelado.</p>
-        <h3>Organizacionalmente viable:</h3>
-        <p>El modelo puede ser útil para la alcaldía y entidades de salud pública local, permitiendo decisiones basadas
-            en datos.</p>
-        <h3>Limitaciones:</h3>
-        <p>Puede haber zonas subregistradas o falta de fechas consistentes, esto requerirá preprocesamiento.</p>
-    </div>
+        <div class="bg-white p-4 rounded shadow-sm mb-4">
+            <h2 class="h4 text-primary">Evaluación de Datos</h2>
+            <p>Se evaluará la calidad del censo actual de vacunación:</p>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">Cobertura geográfica (barrios o veredas)</li>
+                <li class="list-group-item">Variables disponibles: especie, sexo, edad estimada, fecha, cantidad de vacunados</li>
+                <li class="list-group-item">Posibles vacíos de datos, inconsistencias o duplicados</li>
+                <li class="list-group-item">Se analizará si los datos tienen suficiente historial para detectar patrones por zona y por tiempo</li>
+            </ul>
+        </div>
 
-    <div>
-        <h2>ODS (Objetivos de desarrollo sostenible)</h2>
-        <ul>
-            <li>ODS 3: Salud y bienestar
-                Fortalecer la capacidad de todos los países para la alerta temprana, la reducción de riesgos y la
-                gestión de los riesgos sanitarios nacionales y mundiales.
-            </li>
-            <li>ODS 11: Ciudades y comunidades sostenibles
-                Reducir el impacto ambiental negativo per cápita de las ciudades, prestando especial atención a la
-                calidad del aire y a la gestión de los desechos municipales y otros.
-            </li>
-            <li>
-                ODS 15: Vida de ecosistemas terrestres
-                Adoptar medidas urgentes y significativas para reducir la degradación de los hábitats naturales.
-            </li>
-        </ul>
-    </div>
+        <div class="bg-white p-4 rounded shadow-sm mb-4">
+            <h2 class="h4 text-primary">Análisis de Viabilidad</h2>
+            <h5 class="text-success">Técnicamente viable:</h5>
+            <p>Se cuenta con datos en formato estructurado, suficientes para análisis exploratorio y modelado.</p>
+            <h5 class="text-success">Organizacionalmente viable:</h5>
+            <p>El modelo puede ser útil para la alcaldía y entidades de salud pública local, permitiendo decisiones basadas en datos.</p>
+            <h5 class="text-danger">Limitaciones:</h5>
+            <p>Puede haber zonas subregistradas o falta de fechas consistentes, esto requerirá preprocesamiento.</p>
+        </div>
 
-    <div>
-        <h2>Utilizacion de IA</h2>
-        <p>Este documento fue generado con Inteligencia Artificial para
-            adaptar los ODS y ayudarnos un poco con el tema de redacción,
-            aunque las ideas presentadas son propias de nosotros como
-            estudiantes, utilizamos la herramienta para refinar estos datos</p>
-    </div>
-    <div class="section">
-        <p><strong>Referencia:</strong> Schmid, U., Wurst, M., & Wirth, R. (2020). *CRISP-ML(Q): Towards a standard
-            process model for machine learning projects*. Fraunhofer IAIS.</p>
+        <div class="bg-white p-4 rounded shadow-sm mb-4">
+            <h2 class="h4 text-primary">ODS (Objetivos de Desarrollo Sostenible)</h2>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">
+                    <strong>ODS 3: Salud y bienestar</strong><br>
+                    Fortalecer la capacidad de todos los países para la alerta temprana, la reducción de riesgos y la
+                    gestión de los riesgos sanitarios nacionales y mundiales.
+                </li>
+                <li class="list-group-item">
+                    <strong>ODS 11: Ciudades y comunidades sostenibles</strong><br>
+                    Reducir el impacto ambiental negativo per cápita de las ciudades, prestando especial atención a la
+                    calidad del aire y a la gestión de los desechos municipales y otros.
+                </li>
+                <li class="list-group-item">
+                    <strong>ODS 15: Vida de ecosistemas terrestres</strong><br>
+                    Adoptar medidas urgentes y significativas para reducir la degradación de los hábitats naturales.
+                </li>
+            </ul>
+        </div>
+
+        <div class="bg-white p-4 rounded shadow-sm mb-4">
+            <h2 class="h4 text-primary">Utilización de IA</h2>
+            <p>
+                Este documento fue generado con Inteligencia Artificial para adaptar los ODS y ayudarnos un poco con el
+                tema de redacción, aunque las ideas presentadas son propias de nosotros como estudiantes. Utilizamos la
+                herramienta para refinar estos datos.
+            </p>
+        </div>
+
+        <div class="bg-white p-4 rounded shadow-sm">
+            <p class="mb-0"><strong>Referencia:</strong> Schmid, U., Wurst, M., & Wirth, R. (2020). <em>CRISP-ML(Q):
+                Towards a standard process model for machine learning projects</em>. Fraunhofer IAIS.</p>
+        </div>
     </div>
 
 </body>
-
 </html>

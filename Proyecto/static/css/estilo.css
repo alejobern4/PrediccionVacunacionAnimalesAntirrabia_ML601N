@@ -1,0 +1,136 @@
+/* ========= Reset básico ========= */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+:root {
+  --verde-principal: #4CAF50;
+  --verde-suave: #A5D6A7;
+  --gris-fondo: #f9f9f9;
+  --gris-borde: #ccc;
+  --blanco: #ffffff;
+  --texto-oscuro: #333;
+}
+
+
+body {
+  background-color: var(--gris-fondo);
+  color: var(--texto-oscuro);
+  line-height: 1.6;
+  padding: 0;
+  margin:0;
+}
+
+
+header {
+  background-color: var(--verde-principal);
+  color: var(--blanco);
+  padding: 20px;
+  text-align: center;
+  border-radius: 8px;
+}
+
+header h1 {
+  font-size: 2rem;
+}
+h2{
+    font-size: 1.5rem;
+    color:rgb(40, 111, 129);
+}
+
+
+.container {
+  background-color: var(--blanco);
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  max-width: 1000px;
+  margin: auto;
+}
+
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+label {
+  font-weight: bold;
+}
+
+input[type="text"],
+input[type="date"],
+select {
+  padding: 10px;
+  border: 1px solid var(--gris-borde);
+  border-radius: 6px;
+  width: 100%;
+}
+
+button {
+  background-color: #198754;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+button:hover {
+  background-color: #084428;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 30px;
+}
+
+table thead {
+  background-color: var(--verde-suave);
+}
+
+table th, table td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid var(--gris-borde);
+}
+
+table tr:hover {
+  background-color: #f1f1f1;
+}
+
+/* ========= Footer ========= */
+footer {
+  text-align: center;
+  margin-top: 40px;
+  color: #777;
+  font-size: 0.9rem;
+}
+
+.navbar .nav-link.custom-nav {
+    background-color: white;
+    color: #198754 !important; /* Verde Bootstrap 5 */
+    border-radius: 0.5rem;
+    padding: 0.5rem 1rem;
+    margin-left: 0.5rem;
+    transition: background-color 0.3s, color 0.3s;
+    font-weight: 500;
+    max-width: 100%;
+    height: 100%;
+    text-align: center;
+    align-items: center;
+}
+
+.navbar .nav-link.custom-nav:hover {
+    background-color: #198754;
+    color: white !important;
+}
+
