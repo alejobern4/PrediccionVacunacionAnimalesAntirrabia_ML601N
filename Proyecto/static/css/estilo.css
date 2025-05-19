@@ -8,7 +8,7 @@
 
 
 :root {
-  --verde-principal: #4CAF50;
+  --verde-principal: #198754;
   --verde-suave: #A5D6A7;
   --gris-fondo: #f9f9f9;
   --gris-borde: #ccc;
@@ -31,7 +31,6 @@ header {
   color: var(--blanco);
   padding: 20px;
   text-align: center;
-  border-radius: 8px;
 }
 
 header h1 {
@@ -117,7 +116,7 @@ footer {
 
 .navbar .nav-link.custom-nav {
     background-color: white;
-    color: #198754 !important; /* Verde Bootstrap 5 */
+    color: #198754 !important;
     border-radius: 0.5rem;
     padding: 0.5rem 1rem;
     margin-left: 0.5rem;
@@ -134,3 +133,6 @@ footer {
     color: white !important;
 }
 
+#formulario {
+    padding: 80px;
+}

@@ -10,40 +10,52 @@
 </head>
 
 <body>
-        <nav class="navbar navbar-expand-lg navbar-dark bg-success">
+    <header>
+    <h1 class="text-center">Predicción de Vacunación</h1>
+    </header>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-success">
         <div class="container">
             <a class="nav-link custom-nav" href="{{ url_for('home') }}">Vacunación Animal</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
-        
+
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
-                    <li class="nav-item"><a class="nav-link custom-nav" href="{{ url_for('comprension') }}">Comprensión</a></li>
-                    <li class="nav-item"> <a class="nav-link custom-nav" href="{{ url_for('ingenieriaDatos') }}">Ingeniería de Datos</a></li>
-                    <li class="nav-item"><a class="nav-link custom-nav" href="{{ url_for('ingenieriaModelo') }}">Ingeniería del Modelo</a></li>
-                    <li class="nav-item"><a class="nav-link custom-nav" href="{{ url_for('implementacion') }}">Implementación</a></li>
-                    <li class="nav-item"><a class="nav-link custom-nav" href="{{ url_for('formulario') }}">Formulario</a></li>
-                    <li class="nav-item"><a class="nav-link custom-nav" href="{{ url_for('historial') }}">Historial</a></li>
+                    <li class="nav-item"><a class="nav-link custom-nav"
+                            href="{{ url_for('comprension') }}">Comprensión</a></li>
+                    <li class="nav-item"> <a class="nav-link custom-nav"
+                            href="{{ url_for('ingenieriaDatos') }}">Ingeniería de Datos</a></li>
+                    <li class="nav-item"><a class="nav-link custom-nav"
+                            href="{{ url_for('ingenieriaModelo') }}">Ingeniería del Modelo</a></li>
+                    <li class="nav-item"><a class="nav-link custom-nav"
+                            href="{{ url_for('implementacion') }}">Implementación</a></li>
+                    <li class="nav-item"><a class="nav-link custom-nav"
+                            href="{{ url_for('formulario') }}">Formulario</a></li>
+                    <li class="nav-item"><a class="nav-link custom-nav" href="{{ url_for('historial') }}">Historial</a>
+                    </li>
                 </ul>
             </div>
         </div>
     </nav>
     <div class="container mt-5">
-        <h1 class="text-center">Predicción de Vacunación</h1>
-        <p class="text-center">Ingrese los datos para predecir la cantidad de vacunaciones necesarias.</p>
-    <h2>Formulario de Predicción de Vacunación</h2>
-    <form method="POST" action="/predecir">
-        Año: <input type="number" name="año" required><br><br>
-        Mes (1-12): <input type="number" name="mes" min="1" max="12" required><br><br>
-        ¿Urbano o Rural? (1 = Urbano, 0 = Rural): <input type="number" name="urbano" min="0" max="1" required><br><br>
-        Tipo de punto (1 = Punto fijo, 0 = Vivienda): <input type="number" name="tipo_punto" min="0" max="1" required><br><br>
-        <button type="submit" value="Predecir"> Predecir</button>
-    </form>
+        <div class="container" id="formulario">
+            <h2>Formulario de Predicción de Vacunación</h2>
+            <p class="text-center">Ingrese los datos para predecir la cantidad de vacunaciones necesarias.</p>
+            <form method="POST" action="/predecir">
+                Año: <input type="number" name="año" required><br>
+                Mes (1-12): <input type="number" name="mes" min="1" max="12" required><br>
+                ¿Urbano o Rural? (1 = Urbano, 0 = Rural): <input type="number" name="urbano" min="0" max="1"
+                    required><br>
+                Tipo de punto (1 = Punto fijo, 0 = Vivienda): <input type="number" name="tipo_punto" min="0" max="1"
+                    required><br>
+                <button type="submit" value="Predecir"> Predecir</button>
+            </form>
+        </div>
     </div>
     {% if resultado %}
-        <h3>{{ resultado }}</h3>
+    <h3>{{ resultado }}</h3>
     {% endif %}
 </body>
 

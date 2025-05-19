@@ -6,11 +6,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Evaluación del Modelo</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="{{ url_for('static', filename='evaluacion.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/evaluacion.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/estilo.css') }}">
+
 </head>
 
-<body class="bg-light">
-
+<body>
+        <header>
+        <h1>Evaluación del Modelo</h1>
+    </header>
     <nav class="navbar navbar-expand-lg navbar-dark bg-success">
         <div class="container">
             <a class="nav-link custom-nav" href="{{ url_for('home') }}">Vacunación Animal</a>
@@ -32,22 +36,17 @@
         </div>
     </nav>
 
-    <div class="container py-5">
-        <h1 class="mb-5 text-center">Evaluación del Modelo</h1>
-
-        <div class="card mb-4 shadow-sm">
-            <div class="card-body">
-                <h3 class="card-title">Métricas de Desempeño</h3>
+    <div class="container mt-5">
+        
+                <h2>Métricas de Desempeño</h2>
                 <p class="card-text">
                     Se seleccionan y aplican métricas adecuadas según el tipo de problema. En modelos de regresión se
                     usan métricas como MSE o R².
                 </p>
-            </div>
-        </div>
 
-        <div class="card mb-4 shadow-sm">
-            <div class="card-body">
-                <h3 class="card-title">Validación</h3>
+
+
+                <h2>Validación</h2>
                 <p class="card-text">
                     Se usa validación cruzada para comprobar qué tan bien se desempeña el modelo con distintos datos. En
                     modelos de
@@ -55,23 +54,21 @@
                     saber qué tanto
                     explican los datos al resultado.
                 </p>
-            </div>
-        </div>
 
-        <div class="card mb-5 shadow-sm">
-            <div class="card-body">
-                <h3 class="card-title">Análisis de Riesgos</h3>
+
+    
+
+                <h2>Análisis de Riesgos</h2>
                 <p class="card-text">
                     Se examinan posibles riesgos como el sobreajuste (modelo demasiado ajustado al entrenamiento),
                     subajuste (modelo poco complejo), o sesgos en los datos, que podrían afectar la utilidad real del
                     modelo.
                 </p>
-            </div>
-        </div>
+        
 
         <div class="text-center mb-4" id="evaluar-metricas">
             <p>Haz clic en el botón para ver u ocultar las métricas de evaluación del modelo.</p>
-            <button class="btn btn-primary" id="toggleButton">Ver métricas de evaluación</button>
+            <button id="toggleButton">Ver métricas de evaluación</button>
 
             <div id="metricas" class="mt-4" style="display: none;">
                 <h4>Métricas</h4>
