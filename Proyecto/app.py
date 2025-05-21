@@ -2,8 +2,8 @@ from flask import Flask, request, render_template
 import pickle
 import pandas as pd
 import json
-from regresionLineal import entrenar_modelo, evaluar_modelo
-from conexionRenderBd import get_render_connection
+from .regresionLineal import entrenar_modelo, evaluar_modelo
+from .conexionRenderBd import get_render_connection
 
 app = Flask(__name__)
 
@@ -37,7 +37,7 @@ def entrenar():
     entrenar_modelo()
     return render_template('entrenado.html')
 
-@app.route('/entrenar', methods=['GET', 'POST'])
+@app.route('/entrenardo', methods=['GET', 'POST'])
 def subir_datos():
     mensaje = ''
     if request.method == 'POST':
