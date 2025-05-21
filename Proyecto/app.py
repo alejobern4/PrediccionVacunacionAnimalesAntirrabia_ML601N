@@ -11,6 +11,10 @@ app = Flask(__name__)
 def home():
     return render_template("index.html")
 
+@app.route("/documentacion")
+def documentacion():
+    return render_template("documentacion.html")
+
 @app.route("/comprension_datos")
 def comprension():
     return render_template("comprension_datos.html")
