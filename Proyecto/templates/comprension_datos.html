@@ -16,21 +16,25 @@
     </header>
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-success">
-        <div class="container">
-            <a class="nav-link custom-nav" href="{{ url_for('home') }}">Vacunación Animal</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-        
+        <div class="containerNav">
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
-                    <li class="nav-item"><a class="nav-link custom-nav" href="{{ url_for('comprension') }}">Comprensión</a></li>
-                    <li class="nav-item"> <a class="nav-link custom-nav" href="{{ url_for('ingenieriaDatos') }}">Ingeniería de Datos</a></li>
-                    <li class="nav-item"><a class="nav-link custom-nav" href="{{ url_for('ingenieriaModelo') }}">Ingeniería del Modelo</a></li>
-                    <li class="nav-item"><a class="nav-link custom-nav" href="{{ url_for('implementacion') }}">Implementación</a></li>
-                    <li class="nav-item"><a class="nav-link custom-nav" href="{{ url_for('formulario') }}">Formulario</a></li>
-                    <li class="nav-item"><a class="nav-link custom-nav" href="{{ url_for('historial') }}">Historial</a></li>
+                    <li class="nav-item centro-vertical"> <a class="nav-link custom-nav" 
+                            href="{{ url_for('home') }}">Vacunación Animal</a></li>
+                    <li class="nav-item centro-vertical"> <a class="nav-link custom-nav"
+                            href="{{ url_for('documentacion') }}">Documentación</a></li>
+                    <li class="nav-item centro-vertical"><a class="nav-link custom-nav"
+                            href="{{ url_for('comprension') }}">Comprensión</a></li>
+                    <li class="nav-item centro-vertical"> <a class="nav-link custom-nav"
+                            href="{{ url_for('ingenieriaDatos') }}">Ingeniería de Datos</a></li>
+                    <li class="nav-item centro-vertical"> <a class="nav-link custom-nav"
+                            href="{{ url_for('ingenieriaModelo') }}">Ingeniería del Modelo</a></li>
+                    <li class="nav-item centro-vertical"> <a class="nav-link custom-nav"
+                            href="{{ url_for('implementacion') }}">Implementación</a></li>
+                    <li class="nav-item"> <a class="nav-link custom-nav"
+                            href="{{ url_for('formulario') }}">Formulario</a></li>
+                    <li class="nav-item"> <a class="nav-link custom-nav" 
+                            href="{{ url_for('historial') }}">Historial</a></li>
                 </ul>
             </div>
         </div>
@@ -49,7 +53,7 @@
         </div>
 
         <div class="bg-white p-4 rounded shadow-sm mb-4">
-            <h2 class="h4 text-primary">Preguntas Clave</h2>
+            <h2>Preguntas Clave</h2>
             <ul class="list-group list-group-flush">
                 <li class="list-group-item">¿Qué zonas tendrán mayor necesidad de vacunación en futuras jornadas?</li>
                 <li class="list-group-item">¿Cuántos animales callejeros deberíamos planear vacunar por zona?</li>
@@ -58,7 +62,7 @@
         </div>
 
         <div class="bg-white p-4 rounded shadow-sm mb-4">
-            <h2 class="h4 text-primary">Evaluación de Datos</h2>
+            <h2>Evaluación de Datos</h2>
             <p>Se evaluará la calidad del censo actual de vacunación:</p>
             <ul class="list-group list-group-flush">
                 <li class="list-group-item">Cobertura geográfica (barrios o veredas)</li>
@@ -69,7 +73,7 @@
         </div>
 
         <div class="bg-white p-4 rounded shadow-sm mb-4">
-            <h2 class="h4 text-primary">Análisis de Viabilidad</h2>
+            <h2>Análisis de Viabilidad</h2>
             <h5 class="text-success">Técnicamente viable:</h5>
             <p>Se cuenta con datos en formato estructurado, suficientes para análisis exploratorio y modelado.</p>
             <h5 class="text-success">Organizacionalmente viable:</h5>
@@ -79,7 +83,7 @@
         </div>
 
         <div class="bg-white p-4 rounded shadow-sm mb-4">
-            <h2 class="h4 text-primary">ODS (Objetivos de Desarrollo Sostenible)</h2>
+            <h2>ODS (Objetivos de Desarrollo Sostenible)</h2>
             <ul class="list-group list-group-flush">
                 <li class="list-group-item">
                     <strong>ODS 3: Salud y bienestar</strong><br>
@@ -99,7 +103,7 @@
         </div>
 
         <div class="bg-white p-4 rounded shadow-sm mb-4">
-            <h2 class="h4 text-primary">Utilización de IA</h2>
+            <h2>Utilización de IA</h2>
             <p>
                 Este documento fue generado con Inteligencia Artificial para adaptar los ODS y ayudarnos un poco con el
                 tema de redacción, aunque las ideas presentadas son propias de nosotros como estudiantes. Utilizamos la
