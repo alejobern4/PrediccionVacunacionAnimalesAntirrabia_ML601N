@@ -57,16 +57,12 @@
                     explican los datos al resultado.
                 </p>
 
-
-    
-
                 <h2>Análisis de Riesgos</h2>
                 <p class="card-text">
                     Se examinan posibles riesgos como el sobreajuste (modelo demasiado ajustado al entrenamiento),
                     subajuste (modelo poco complejo), o sesgos en los datos, que podrían afectar la utilidad real del
                     modelo.
                 </p>
-        
 
         <div class="text-center mb-4" id="evaluar-metricas">
             <p>Haz clic en el botón para ver u ocultar las métricas de evaluación del modelo.</p>
@@ -75,7 +71,7 @@
             <div id="metricas" class="mt-4" style="display: none;">
                 <h4>Métricas</h4>
                 <p><strong>MSE:</strong> {{ mse }}</p>
-                <p><strong>R²:</strong> 0.71</p>
+                <p><strong>R²:</strong> {{ r2 }}</p>
             </div>
         </div>
 

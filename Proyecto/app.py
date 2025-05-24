@@ -78,9 +78,10 @@ def predecir():
         mes = int(request.form['mes'])
         urbano = int(request.form['urbano'])
         tipo_punto = int(request.form['tipo_punto'])
+        sector = int(request.form['sector'])
 
-        entrada_df = pd.DataFrame([[año, mes, urbano, tipo_punto]],
-            columns=['Año', 'Mes', 'Urbano o Rural?', 'Es vivienda o punto fijo?']
+        entrada_df = pd.DataFrame([[año, mes, urbano, tipo_punto, sector]],
+            columns=['Año', 'Mes', 'Urbano o Rural?', 'Es vivienda o punto fijo?', 'Sector codificado']
         )
 
         prediccion = modelo.predict(entrada_df)
@@ -90,11 +91,11 @@ def predecir():
             "Año": año,
             "Mes": mes,
             "Urbano o Rural?": urbano,
-            "Es vivienda o punto fijo?": tipo_punto
+            "Es vivienda o punto fijo?": tipo_punto,
+            "Sector codificado": sector
         }
         entrada_json = json.dumps(entrada)
         guardar_prediccion(entrada_json, resultado)
-
 
         return render_template('prediccion.html', resultado=f"Predicción: {resultado} animales por vacunar.")
     except Exception as e:
