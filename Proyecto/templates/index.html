@@ -3,44 +3,46 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Inicio</title>
+    <title>Sistema de Predicción de Vacunación Antirrábica en Chía</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="{{ url_for('static', filename='css/estilo.css') }}" rel="stylesheet">
 </head>
 
 <body>
-    <header>
-    <h1>Bienvenido al Modelo Predictivo para la Planificación de Vacunación Antirrábica en Chía</h1>
-    </header>
+    <section class="hero-section text-white d-flex align-items-center" style="min-height: 100vh; background-color: #111; position: relative;">
 
-    <nav class="navbar navbar-expand-lg navbar-dark bg-success">
-        <div class="containerNav">
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav ms-auto">
-                    <li class="nav-item centro-vertical"> <a class="nav-link custom-nav" 
-                            href="{{ url_for('home') }}">Vacunación Animal</a></li>
-                    <li class="nav-item centro-vertical"> <a class="nav-link custom-nav"
-                            href="{{ url_for('documentacion') }}">Documentación</a></li>
-                    <li class="nav-item centro-vertical"><a class="nav-link custom-nav"
-                            href="{{ url_for('comprension') }}">Comprensión</a></li>
-                    <li class="nav-item centro-vertical"> <a class="nav-link custom-nav"
-                            href="{{ url_for('ingenieriaDatos') }}">Ingeniería de Datos</a></li>
-                    <li class="nav-item centro-vertical"> <a class="nav-link custom-nav"
-                            href="{{ url_for('ingenieriaModelo') }}">Ingeniería del Modelo</a></li>
-                    <li class="nav-item centro-vertical"> <a class="nav-link custom-nav"
-                            href="{{ url_for('implementacion') }}">Implementación</a></li>
-                    <li class="nav-item"> <a class="nav-link custom-nav"
-                            href="{{ url_for('formulario') }}">Formulario</a></li>
-                    <li class="nav-item"> <a class="nav-link custom-nav" 
-                            href="{{ url_for('historial') }}">Historial</a></li>
+        <button class="btn btn-primary-custom-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasLeft" aria-controls="offcanvasLeft">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="offcanvas offcanvas-start bg-dark text-white" tabindex="-1" id="offcanvasLeft" aria-labelledby="offcanvasLeftLabel">
+            <div class="offcanvas-header">
+                <h5 class="offcanvas-title" id="offcanvasLeftLabel">Navegación</h5>
+                <button type="button" class="btn-close text-reset custom-btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+            </div>
+            <div class="offcanvas-body">
+                <ul class="navbar-nav justify-content-start flex-grow-1 pe-3">
+                    <li class="nav-item"> <a class="nav-link custom-nav-offcanvas" href="{{ url_for('documentacion') }}">Documentación</a></li>
+                    <li class="nav-item"><a class="nav-link custom-nav-offcanvas" href="{{ url_for('comprension') }}">Comprensión</a></li>
+                    <li class="nav-item"> <a class="nav-link custom-nav-offcanvas" href="{{ url_for('ingenieriaDatos') }}">Ingeniería de Datos</a></li>
+                    <li class="nav-item"> <a class="nav-link custom-nav-offcanvas" href="{{ url_for('ingenieriaModelo') }}">Ingeniería del Modelo</a></li>
+                    <li class="nav-item"> <a class="nav-link custom-nav-offcanvas" href="{{ url_for('implementacion') }}">Implementación</a></li>
+                    <li class="nav-item"> <a class="nav-link custom-nav-offcanvas" href="{{ url_for('formulario') }}">Formulario</a></li>
+                    <li class="nav-item"> <a class="nav-link custom-nav-offcanvas" href="{{ url_for('historial') }}">Historial</a></li>
                 </ul>
             </div>
         </div>
-    </nav>
 
-    <div class="container mt-5 text-center">
-        <p class="lead">Sistema de apoyo para el análisis y predicción de vacunación de animales callejeros en Chía.</p>
-    </div>
+        <div class="container-2 text-start" style="position: relative; z-index: 1;">
+            <h1 class="display-3 fw-bold">Predicción Inteligente <br>para Vacunación Antirrábica</h1>
+            <p class="lead mt-3 mb-5">Anticipa jornadas de vacunación en Chía con tecnología de datos y modelos predictivos.</p>
+            <a href="/formulario" class="buttonact cta-main-button">¡Iniciar Predicción Ahora!</a>
+            <a href="/documentacion" class="btn btn-outline-light btn-lg ms-3">Saber más</a>
+        </div>
+
+        <canvas id="visual-right"
+                style="position: absolute; right: 0; top: 0; height: 100vh; width: 50vw; z-index: 0;"></canvas>
+    </section>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>

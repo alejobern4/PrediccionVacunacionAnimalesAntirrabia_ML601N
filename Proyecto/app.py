@@ -2,8 +2,8 @@ from flask import Flask, request, render_template
 import pickle
 import pandas as pd
 import json
-from .regresionLineal import entrenar_modelo, evaluar_modelo
-from .conexionRenderBd import get_render_connection
+from regresionLineal import entrenar_modelo, evaluar_modelo
+from conexionRenderBd import get_render_connection
 
 app = Flask(__name__)
 
