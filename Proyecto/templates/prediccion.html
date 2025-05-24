@@ -11,13 +11,13 @@
 
 <body>
     <header>
-    <h1 class="text-center">Predicción de Vacunación</h1>
+        <h1 class="text-center">Predicción de Vacunación</h1>
     </header>
     <nav class="navbar navbar-expand-lg navbar-dark bg-success">
         <div class="container">
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
-                    <li class="nav-item centro-vertical"> <a class="nav-link custom-nav" 
+                    <li class="nav-item centro-vertical"> <a class="nav-link custom-nav"
                             href="{{ url_for('home') }}">Vacunación Animal</a></li>
                     <li class="nav-item centro-vertical"> <a class="nav-link custom-nav"
                             href="{{ url_for('documentacion') }}">Documentación</a></li>
@@ -29,28 +29,70 @@
                             href="{{ url_for('ingenieriaModelo') }}">Ingeniería del Modelo</a></li>
                     <li class="nav-item centro-vertical"> <a class="nav-link custom-nav"
                             href="{{ url_for('implementacion') }}">Implementación</a></li>
-                    <li class="nav-item"> <a class="nav-link custom-nav" 
-                            href="{{ url_for('historial') }}">Historial</a></li>
+                    <li class="nav-item"> <a class="nav-link custom-nav" href="{{ url_for('historial') }}">Historial</a>
+                    </li>
                 </ul>
             </div>
         </div>
     </nav>
     {% if resultado %}
-    <div class="container mt-5"><h3 style="font-size: larger;">{{ resultado }}</h3></div>
+    <div class="container mt-5">
+        <h3 style="font-size: larger;">{{ resultado }}</h3>
+    </div><br>
     {% endif %}
-        <div class="container" id="formulario">
-            <h2>Formulario de Predicción de Vacunación</h2>
-            <p class="text-left">Ingrese los datos para predecir la cantidad de vacunaciones necesarias.</p>
-            <form method="POST" action="/predecir">
-                <strong>Año: </strong><input type="number" class="form-control" name="año" min="2024" required><br>
-                <strong>Mes (1-12): </strong><input type="number" class="form-control" name="mes" min="1" max="12" required><br>
-                <strong>¿Urbano o Rural? (1 = Urbano, 0 = Rural): </strong><input type="number" class="form-control" name="urbano" min="0" max="1"
-                    required><br>
-                <strong>Tipo de punto (1 = Punto fijo, 0 = Vivienda): </strong><input type="number" class="form-control" name="tipo_punto" min="0" max="1"
-                    required><br>
-                <button type="submit" value="Predecir"> Predecir</button>
-            </form>
-        </div>
+    <div class="container" id="formulario">
+        <h2>Formulario de Predicción de Vacunación</h2>
+        <p class="text-left">Ingrese los datos para predecir la cantidad de vacunaciones necesarias.</p>
+        <form method="POST" action="/predecir">
+            <strong>Año:</strong>
+            <input type="number" class="form-control" name="año" min="2024" required><br>
+
+            <strong>Mes:</strong>
+            <select name="mes" class="form-control" required>
+                <option value="1">Enero</option>
+                <option value="2">Febrero</option>
+                <option value="3">Marzo</option>
+                <option value="4">Abril</option>
+                <option value="5">Mayo</option>
+                <option value="6">Junio</option>
+                <option value="7">Julio</option>
+                <option value="8">Agosto</option>
+                <option value="9">Septiembre</option>
+                <option value="10">Octubre</option>
+                <option value="11">Noviembre</option>
+                <option value="12">Diciembre</option>
+            </select><br>
+
+            <strong>Zona:</strong>
+            <select name="urbano" class="form-control" required>
+                <option value="1">Urbano</option>
+                <option value="0">Rural</option>
+            </select><br>
+
+            <strong>Tipo de punto:</strong>
+            <select name="tipo_punto" class="form-control" required>
+                <option value="0">Vivienda</option>
+                <option value="1">Punto fijo</option>
+            </select><br>
+
+            <strong>Sector:</strong>
+            <select class="form-control" name="sector" required>
+                <option value="0">Cerca de pedra</option>
+                <option value="1">Centro</option>
+                <option value="2">La Balsa</option>
+                <option value="3">Tiquiza</option>
+                <option value="4">Fonqueta</option>
+                <option value="5">Fusca</option>
+                <option value="6">Fagua</option>
+                <option value="7">Samaria</option>
+                <option value="8">Otro</option>
+            </select><br>
+
+
+            <button type="submit" class="btn btn-success">Predecir</button>
+        </form>
+
+    </div>
 </body>
 
 </html>

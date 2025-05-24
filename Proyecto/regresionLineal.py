@@ -13,6 +13,25 @@ def entrenar_modelo():
     #Leer el archivo csv
     df = pd.read_csv(ruta_archivo)
 
+    #Normalizar y codificar sector/vereda
+    df['Sector /Vereda'] = df['Sector /Vereda'].str.lower().str.strip()
+
+    sector_map = {
+        'cerca de pedra': 0,
+        'centro': 1,
+        '16_centro': 1,
+        'la balsa': 2,
+        'tiquiza': 3,
+        'tiqueza': 3,
+        'fonqueta': 4,
+        'fusca': 5,
+        'fagua': 6,
+        'samaria': 7,
+        'otro': 8
+    }
+
+    df['Sector codificado'] = df['Sector /Vereda'].map(sector_map)
+
     df = df.dropna()
     meses = {
         'enero': 1, 'febrero': 2, 'marzo': 3, 'abril': 4,
@@ -24,11 +43,15 @@ def entrenar_modelo():
     df['Es vivienda o punto fijo?'] = df['Es vivienda o punto fijo?'].map({'Vivienda': 0, 'Punto fijo': 1})
     df['Vacunados totales'] = df['Vacunados (dogs)'] + df['Vacunados (cats)']
 
-    df = df.dropna(subset=['Año', 'Mes', 'Urbano o Rural?', 'Es vivienda o punto fijo?', 'Vacunados totales'])
+    # Asegurarse de que no haya valores nulos en las variables necesarias
+    df = df.dropna(subset=['Año', 'Mes', 'Urbano o Rural?', 'Es vivienda o punto fijo?', 'Vacunados totales', 'Sector codificado'])
 
-    #Variables
-    X = df[['Año', 'Mes', 'Urbano o Rural?', 'Es vivienda o punto fijo?']]
+    # Variables predictoras y objetivo
+    X = df[["Año", "Mes", "Urbano o Rural?", "Es vivienda o punto fijo?", "Sector codificado"]]
     y = df['Vacunados totales']
+
+
+
 
     #Division del dataset
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
