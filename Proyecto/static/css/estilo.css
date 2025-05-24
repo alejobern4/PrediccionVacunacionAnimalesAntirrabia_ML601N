@@ -18,7 +18,7 @@
 
 
 body {
-  background-color: var(--gris-fondo);
+  background-color: #111;
   color: var(--texto-oscuro);
   line-height: 1.6;
   padding: 0;
@@ -27,7 +27,7 @@ body {
 
 
 header {
-  background-color: var(--verde-principal);
+  background-color: #111;
   color: var(--blanco);
   padding: 50px;
   text-align: center;
@@ -46,15 +46,33 @@ h3{
   color: #198754;
 }
 
+h4{
+  font-size: 1rem;
+  color: #198754;
+}
 
 .container {
-  background-color: var(--blanco);
+  background-color: var(--gris-fondo);
   padding: 30px;
   border-radius: 10px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.1);
   max-width: 1000px;
-  margin-top: 50px;
-  margin-bottom: 50px;
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+
+.containerd {
+  background-color: var(--gris-fondo);
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  max-width: 1000px;
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+
+.container-2{
+  padding: 10%;
 }
 
 .containerNav {
@@ -80,20 +98,19 @@ h3{
 .navbar-nav .nav-item {
   display: flex;
   align-items: center; /* Centrado vertical */
-  justify-content: center; /* Centrado horizontal del <a> si lo deseas */
-  padding: 0 10px;
+  justify-content: center;
   border: 0;
 }
 
 .nav-link {
   display: inline-block;
   text-align: center;
-  line-height: 1.2; /* Controla altura del texto */
-  white-space: normal; /* Permite múltiples líneas si lo necesitas */
+  line-height: 1.2;
+  white-space: normal;
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
   font-size: 0.95rem;
-  min-height: 60px; /* Altura mínima para igualar todos los ítems */
+  min-height: 60px;
   border: 0;
 }
 
@@ -162,9 +179,9 @@ footer {
 
 .navbar .nav-link.custom-nav {
     background-color: white;
-    color: #198754 !important;
+    color: #198754;
     border-radius: 0.5rem;
-    padding: 0.5rem 1rem;
+    padding: 0.3rem 0.7rem;
     transition: background-color 0.3s, color 0.3s;
     font-weight: 500;
     max-width: 100%;
@@ -180,6 +197,109 @@ footer {
     border: 0;
 }
 
+
 #formulario {
     padding: 80px;
+}
+
+.buttonact {
+    background-color: var(--azul-accion); /* Color base azul */
+    color: #198754;
+    border: none;
+    padding: 15px 30px; /* Un poco más grande que el botón normal */
+    font-size: 1.1em; /* Texto ligeramente más grande */
+    border-radius: 8px; /* Bordes redondeados, como tus otros botones */
+    cursor: pointer;
+    margin-top: 15px; /* Margen superior, ajustable según donde lo uses */
+    transition: var(--transicion-rapida); /* Transición suave para efectos */
+    text-transform: uppercase; /* Texto en mayúsculas */
+    font-weight: 600; /* Más negrita */
+    letter-spacing: 0.5px; /* Pequeño espaciado entre letras */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Sombra para darle profundidad */
+    display: inline-block; /* Para asegurar que padding y margen funcionen bien en un <a> */
+    text-decoration: none; /* Quita el subrayado si lo usas en un <a> */
+}
+
+.buttonact:hover {
+    background-color: var(--azul-accion-hover); /* Azul más oscuro al pasar el mouse */
+    transform: translateY(-2px); /* Ligeramente levantado al pasar el mouse */
+    box-shadow: 0 6px 15px var(--sombra-boton); /* Sombra más pronunciada al pasar el mouse */
+}
+
+.buttonact:active {
+    transform: translateY(0); /* Vuelve a su posición original al hacer clic */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Sombra más pequeña al hacer clic */
+}
+
+.offcanvas-start {
+    width: 280px; /* Ancho del menú desplegado */
+    background-color: var(--gris-muy-oscuro); /* Fondo del offcanvas */
+    color: var(--blanco);
+    box-shadow: 4px 0 10px rgba(0, 0, 0, 0.3); /* Sombra para el offcanvas */
+}
+
+.offcanvas-header {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1); /* Separador en el encabezado */
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+}
+
+.offcanvas-title {
+    color: var(--blanco);
+    font-weight: bold;
+}
+
+.hero-section {
+    position: relative;
+}
+
+/* Asegura que el contenido principal no quede debajo del botón de hamburguesa */
+.hero-section .container-2 {
+    padding-top: 80px; /* Ajusta según el tamaño de tu botón y necesidades */
+    position: relative;
+    z-index: 1;
+}
+
+.custom-btn-close {
+    /* Estilo para el botón de cerrar la 'X' */
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath d='M.293.293a1 1 0 0 1 1.414 0L8 6.586 14.293.293a1 1 0 1 1 1.414 1.414L9.414 8l6.293 6.293a1 1 0 0 1-1.414 1.414L8 9.414l-6.293 6.293a1 1 0 0 1-1.414-1.414L6.586 8 .293 1.707a1 1 0 0 1 0-1.414z'/%3e%3c/svg%3e");
+    filter: none; /* Asegura que el color sea blanco y no se vea extraño por filtros */
+    opacity: 1; /* Asegura que sea completamente visible */
+}
+
+/* --- Estilos para los enlaces dentro del Offcanvas --- */
+.custom-nav-offcanvas {
+    color: rgba(255, 255, 255, 0.8) !important; /* Color claro para los enlaces */
+    padding: 12px 15px; /* Padding generoso */
+    border-radius: 5px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    font-weight: 500;
+}
+
+.custom-nav-offcanvas:hover {
+    background-color: rgba(255, 255, 255, 0.1); /* Fondo sutil al pasar el mouse */
+    color: var(--blanco) !important; /* Texto blanco al pasar el mouse */
+}
+
+.btn-primary-custom-toggler {
+    position: absolute; /* Para colocarlo en la esquina superior */
+    top: 20px; /* Distancia desde la parte superior */
+    left: 20px; /* Distancia desde la izquierda */
+    z-index: 1000; /* Asegura que esté por encima de todo */
+    background-color: transparent; /* Fondo transparente */
+    border: 2px solid white; /* Borde blanco para que destaque sobre el negro */
+    border-radius: 5px;
+    padding: 10px 12px; /* Ajusta el tamaño del botón */
+    transition: all 0.3s ease;
+}
+
+.btn-primary-custom-toggler .navbar-toggler-icon {
+    /* Estilo del icono de hamburguesa (las tres líneas) */
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+    width: 1.5em; /* Tamaño del icono */
+    height: 1.5em; /* Tamaño del icono */
+}
+
+.btn-primary-custom-toggler:hover {
+    background-color: rgba(255, 255, 255, 0.1); /* Ligeramente blanco al pasar el mouse */
 }
